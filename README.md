@@ -1,7 +1,7 @@
 # TODO APP
 
 This is a simple program written in C language to mock a todo list. A user can make a new todo task, delete a task, mark a task as done or not done and view all their tasks.
----
+
 
 ## Features
 1. **Add tasks** - Add new tasks to the todo app.
@@ -9,11 +9,11 @@ This is a simple program written in C language to mock a todo list. A user can m
 3. **mark tasks as done** - Mark tasks as done or not done.
 4. **view tasks** - View all tasks.
 
----
+
 
 ## Getting started
 
----
+
 
 ### Requirements
 
@@ -39,7 +39,7 @@ gcc -o todo_app todo_app.c
 ./todo_app.c
 ```
 
----
+
 
 ## Usage
 The program starts by presenting a menu with the following options:
@@ -50,11 +50,10 @@ The program starts by presenting a menu with the following options:
 
 Follow the on screen prompts to interact with the system.
 
----
 ## License
 This project is licensed under the MIT License. check [LICENSE](license) for details.
 
----
+
 ## Contributions
 
 Contributions are welcome! If you’d like to contribute to this project:
@@ -66,7 +65,6 @@ Contributions are welcome! If you’d like to contribute to this project:
 
 Feel free to open issues for any bugs or feature requests.
 
----
 
 ## Author
 Copyright (c) 2025 **Marangi Murage**.
