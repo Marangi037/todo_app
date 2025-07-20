@@ -1,4 +1,5 @@
 # TODO APP
+---
 This is a simple program written in C language to mock a todo list. A user can make a new todo task, delete a task, mark a task as done or not done and view all their tasks.
 ---
 
